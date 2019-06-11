@@ -1,0 +1,34 @@
+.header{
+	margin: 0px;
+	padding: 22px;
+	height: 100px;
+	width: 100%;
+	background-color: #8B78E6;
+	position: relative;
+	text-align: center;
+}
+
+
+
+center{
+	margin-top: 20px;
+}
+.wrap{
+	padding: 15px;
+	height: 100px;
+	
+}
+.container{
+	border:1px solid black;
+	background-color: #f9fafc;
+	padding: 15px;
+}
+.footer{
+	margin: 5px;
+	padding: 22px;
+	height: 100px;
+	width: 100%;
+	background-color: #8B78E6;
+	position: relative;
+	text-align: center;
+}
